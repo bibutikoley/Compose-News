@@ -1,4 +1,4 @@
-package io.bibuti.news.ui.theme
+package io.bibuti.news.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
